@@ -1,6 +1,6 @@
 # Digital Literacy Project
 
-Name: Shreeya Raj
+Name: Shreeya Raj    
 Reg No: 25BAI10515
 Branch: CSE (AI & ML)  
 
