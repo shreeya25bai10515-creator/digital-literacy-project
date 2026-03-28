@@ -2,7 +2,7 @@
 
 Name: Shreeya Raj    
 Reg No: 25BAI10515            
-Branch: CSE (AI & ML)  
+Branch: CSE (AI & ML)   
 
 ## About this project
 This project is done for my Digital Literacy course. In this, I learned about online tools, how to stay safe on the internet, and how to communicate professionally. I also created some small tasks like infographic, profiles, and emails.
