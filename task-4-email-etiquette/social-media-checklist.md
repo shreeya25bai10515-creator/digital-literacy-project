@@ -4,7 +4,7 @@ As a college student, it is important to use social media responsibly. The follo
 
 ---
 
-## ✅ Do’s
+##  Do’s
 - [x] Use strong, unique passwords for each account.  
 - [x] Enable two-factor authentication (2FA) wherever possible.  
 - [x] Think carefully before posting or sharing content.  
@@ -13,7 +13,7 @@ As a college student, it is important to use social media responsibly. The follo
 
 ---
 
-## ❌ Don’ts
+##  Don’ts
 - [ ] Don’t share passwords, OTPs, or PINs with anyone.  
 - [ ] Avoid accepting friend/follow requests from unknown people.  
 - [ ] Don’t click on suspicious links or download unknown files.  
